@@ -21,12 +21,15 @@ body {
 }
 
 #logo {
+	width: 100px;
 	max-width: 100%;
 }
 
 #img1 {
+	width: 500px;
 	max-width: 100%;
 }
 #img2 {
+	width: 400px;
 	max-width: 100%;
 }
